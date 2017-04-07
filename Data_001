@@ -1,0 +1,7 @@
+CREATE DATABASE Test001;
+
+USE DATABASE Test001;
+
+CREATE TABLE (names, places, things, extras);
+
+INSERT VALUES names (
